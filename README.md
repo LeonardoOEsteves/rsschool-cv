@@ -1,3 +1,4 @@
 # rsschool-cv
 
-https://leonardooesteves.github.io/rsschool-cv/cv
+## HTML, CSS & Git Basics
+https://leonardooesteves.github.io/rsschool-cv/
